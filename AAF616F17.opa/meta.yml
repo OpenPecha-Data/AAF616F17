@@ -1,0 +1,19 @@
+id: AAF616F17
+title: 'Words of Truth: An Aspiration for the Spread of the Noble Gendenpa Tradition'
+type: translation
+pechas:
+- IB0F4B617
+- IA0533192
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:56:05.457278
+  last_modified_at: 2023-01-04 12:56:05.457300
+  collections:
+  - Könchok Tenpe Drönme Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IB0F4B617/6E22: '3593'
+  IA0533192/779A: '3593'
